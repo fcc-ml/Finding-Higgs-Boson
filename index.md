@@ -1,4 +1,4 @@
-Visualise the data [html_report.html](url)
+<!-- Visualise the data [html_report.html](url) -->
 
 <!-- ## Welcome to GitHub Pages
 
